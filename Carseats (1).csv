@@ -1,0 +1,14 @@
+;US;City;Price;Age;ShelveLoc;Sales;Revenue;Advertising;% of sales;Sales Above or below - ColourCode;;1053,817919;;;;;
+1;Yes;St. Paul;118;52;Good;11,17;1318,06;11;0,8%; 1 307 ;24%;;;;;;
+2;Yes;Bridgeport;116;58;Good;10,62;1231,92;19;1,5%; 1 213 ;15%;;;;;;
+3;Yes;Fairborn;119;41;Good;10,51;1250,69;9;0,7%; 1 242 ;18%;;;;;;
+4;Yes;Westlake;114;52;Good;8,77;999,78;7;0,7%; 993 ;-6%;;;St. Paul;24%;;
+5;Yes;Valparaiso;114;57;Good;10,49;1195,86;8;0,7%; 1 188 ;13%;;;Bridgeport;15%;;
+6;No;Utrecht;120;63;Good;8,87;1064,4;0;0,0%; 1 064 ;1%;;;Fairborn;18%;;
+7;No;Duisburg;122;56;Good;7,8;951,6;0;0,0%; 952 ;-10%;;;Westlake;-6%;;
+8;No;Canford Cliffs;112;27;Good;6,88;770,56;0;0,0%; 771 ;-27%;;;Valparaiso;13%;;
+9;No;Perl;123;34;Good;9,09;1118,07;0;0,0%; 1 118 ;6%;;;;;Utrecht;-1%
+10;No;Palma;110;63;Good;7,58;833,8;0;0,0%; 834 ;-21%;;;;;Duisburg;-10%
+;;;;;;;;;;;;;;;;Canford Cliffs;-27%
+;;;;;;;;;;;;;;;;Perl;6%
+;;;;;;;;;;;;;;;;Palma;-21%
